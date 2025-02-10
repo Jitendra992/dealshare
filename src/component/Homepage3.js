@@ -5,55 +5,56 @@ const Homepage3 = () => {
         <div className='lg:h-full h-full w-full lg:w-full overflow-x-auto custom-scrollbar lg:py-20   '>
           
           <marquee scrollamount="20" direction="right">
-           <div className=' flex lg:flex-row lg:gap-10 gap-5  justify-center lg:w-[180vw] w-[150vw] items-center  whitespace-nowrap ml-5 '>
-                <div className=' lg:h-[100%]   lg:w-[100vw] '>
-                    <img className=' h-[20vh] lg:w-full w-[40vw] ' src='https://images.dealshare.in/1738325332248Topdeals.png'></img>
+           <div className=' flex lg:flex-row lg:gap-10 gap-5 py-5  justify-center lg:w-[140vw] w-[390vw] items-center  whitespace-nowrap ml-5 '>
+
+                <div className=' lg:h-[20%]   lg:w-[15vw] w-full '>
+                    <img className=' h-[20vh] lg:w-full w-[80vw] ' src='https://images.dealshare.in/1738325332248Topdeals.png'></img>
                 </div>
 
-                <div className=' lg:h-auto  lg:w-[100vw]'>
+                <div className=' lg:h-[20%]  lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325343501NCR_LUC_RAJ.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325351179AllRegions-2.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325397823AllRegions.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] h-[30%] lg:w-[10vw] w-[20%]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full l'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325299234Fruits&Vegetables.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325407805AllRegions-7.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325387245AllRegions-4.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325359551AllRegions-1.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325359551AllRegions-1.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325359551AllRegions-1.png'></img>
                 </div>
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
-                    <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325359551AllRegions-1.png'></img>
-                </div>
-
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325359551AllRegions-1.png'></img>
                 </div>
 
-                <div className=' lg:h-[10%] lg:w-[10vw]'>
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
+                    <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325359551AllRegions-1.png'></img>
+                </div>
+
+                <div className=' lg:h-[20%] lg:w-[15vw] w-full'>
                     <img className=" h-[20vh]  w-[40vw]" src='https://images.dealshare.in/1738325359551AllRegions-1.png'></img>
                 </div>
 

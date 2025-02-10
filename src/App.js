@@ -17,6 +17,7 @@ import Home7 from "./component/Home7";
 import Home8 from "./component/Home8";
 import Home9 from "./component/Home9";
 import Home10 from "./component/Home10";
+import Last from "./component/Last";
 
 
 
@@ -24,6 +25,7 @@ function App() {
   return (
   <>
    <HomePage2/>
+
 
 {
   <div className="lg:w-full lg:h-full lg:px-[8%]">
@@ -42,6 +44,8 @@ function App() {
 <Home8/>
 <Home9/>
 <Home10/>
+<Last/>
+
 
 
 
